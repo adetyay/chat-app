@@ -1,1 +1,1 @@
-chatbreeze - a real time chat application
+# ChatBreeze - A Real Time Chat Application
