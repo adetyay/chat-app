@@ -5,7 +5,7 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   padding: 1rem 0.5rem;
-  background-color: var(--COLOR_DARK);
+  background-color: #86348b;
   color: var(--COLOR_LIGHT);
 }
 

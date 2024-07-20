@@ -17,7 +17,7 @@ function Logo() {
           <img src={CHAT_IMG} alt="Chat Logo Img" />
         </div>
         <h1 className="nowrap logo__title" onClick={handleClick}>
-          CHIT CHAT
+        ChatBreeze
         </h1>
       </div>
     </div>

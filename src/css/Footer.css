@@ -6,8 +6,8 @@
   right: 0;
   width: 100%;
   text-align: center;
-  background-color: var(--COLOR_BLACK);
-  color: var(--COLOR_GREY);
+  background-color: #9d4edd;
+  color: black;
 }
 
 .footer__content {

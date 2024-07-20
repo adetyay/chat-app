@@ -24,7 +24,7 @@
 .exroom__heading {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  color: var(--COLOR_LIGHT);
+  color: black;
   letter-spacing: 2px;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .exroom__form > input {
-  color: var(--COLOR_LIGHT);
+  /* color: var(--COLOR_LIGHT); */
   background-color: rgba(255, 255, 255, 0.07);
   border-radius: 0.2rem;
   border: none;
@@ -51,8 +51,8 @@
 .join__room__btn {
   width: 20rem;
   padding: 0.5rem 1rem;
-  background-color: var(--COLOR_PRIMARY);
-  color: var(--COLOR_DARK);
+  background-color: #b5179e;
+  /* color: var(--COLOR_DARK); */
   outline: none;
   border: none;
   font-size: 1.2rem;
@@ -60,12 +60,14 @@
   border-radius: 0.25rem;
   letter-spacing: 2px;
   margin-bottom: 1rem;
+  font-weight: bold;
+  color: white;
 }
 
 .join__room__btn:focus,
 .join__room__btn:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-  color: var(--COLOR_LIGHT);
+  background-color: #f15bb5;
+  /* color: var(--COLOR_LIGHT); */
 }
 
 /* MEDIA QUERY BREAKPOINTS */
