@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/Logo.css";
 import { useNavigate } from "react-router-dom";
-import CHAT_IMG from "../assets/chat-img.png";
+import CHAT_IMG from "../assets/chaticon.png";
 
 function Logo() {
   const navigate = useNavigate();
